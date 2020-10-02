@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://upset.dev">
-    <img src="https://avatar.fly.dev/image-resizing.svg?text=I" alt="Image Resizing" height="60"/>
+    <img src="https://avatar.frans.workers.dev/I?rounded=true" alt="Image Resizing" height="60"/>
   </a>
 </p>
 
